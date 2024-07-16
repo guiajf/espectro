@@ -49,6 +49,8 @@ O tamanho das ondas aumenta da esquerda para a direita.
 <img src="frequency_wavelength.png" width="60%" height="60%">
 A frequência das ondas aumenta da esquerda para a direita.
 
+
+
 Fontes: 
 
 http://www.codedrome.com/exploring-the-visible-spectrum-in-python/
