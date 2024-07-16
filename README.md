@@ -18,6 +18,10 @@ vapor d'água, oxigênio, ozônio e gás carbônico. E, em menor quantidade: mon
 
 Os gases radiativos presentes na atmosfera, ao absorverem praticamente todos os raios gama, X e ultravioleta, antes que atinjam a troposfera, impedem efeitos deletérios à vida na Terra. Por outro lado, a faixa do espectro visível, responsável por processos físico-químicos, é apenas ligeiramente atenuada pela atmosfera.
 
+### O espectro visível
+
+No livro *Learning Scientific Programming with Python*, de *Christian Hill*, disponível online em https://scipython.com/book/, há um programa que exibe as diferentes regiões do espectro eletromagnético. 
+
 ### Propriedades básicas das ondas
 
 ![ondas](ondas.png)
@@ -29,7 +33,7 @@ O número de comprimentos de onda completos que passam por um determinado ponto 
 
 O comprimento de onda e a frequência são inversamente proporcionais, isto é, quanto menor o comprimento de onda, maior será a frequência, e vice-versa.
 
-Visualizemos as duas últimas propriedades graficamente.
+Visualizemos as duas últimas propriedades graficamente, através das funções escritas por *Chris Webb*.
 
 ### Comprimento de onda
 
