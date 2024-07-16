@@ -12,7 +12,7 @@ A energia radiante emitida pelo sol se propaga através de um meio denominado **
 ![espectro](espectro.png)  
 
 ### Escudo protetor
-$$\require{mhchem}$$
+$\require{mhchem}$
 
 A atmosfera terrestre possui uma camada protetora, composta por gases absorvedores da radiação eletromagnética. Estão presentes, em grande quantidade, vapor d'água $\(\ce{H2O}\)$, oxigênio $\(\ce{O2}\)$, ozônio $\(\ce{O3}\)$ e gás carbônico $\(\ce{CO2}\)$ e, em menor quantidade, monóxido de carbono $\(\ce{CO}\)$, metano $\(\ce{CH4}\)$, monóxido de nitrogênio ou óxido nítrico $\(\ce{NO}\)$ e óxido nitroso $\(\ce{N2O}\)$.
 
