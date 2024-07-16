@@ -22,9 +22,9 @@ Os gases radiativos presentes na atmosfera, ao absorverem praticamente todos os 
 
 ![ondas](ondas.png)
 
-As propriedades básicas das ondas são: amplitude, comprimento e frequência.
-A distância entre a extremidade da *crista*(ponto mais alto) e a o eixo central da onda é chamada **amplitude**.
-A distância horizontal entre dois *vales* ou *cristas* consecutivas é chamada **comprimento de onda**.
+As propriedades básicas das ondas são: amplitude, comprimento e frequência.<br>
+A distância entre a extremidade da *crista*(ponto mais alto) e a o eixo central da onda é chamada **amplitude**.<br>
+A distância horizontal entre dois *vales* ou *cristas* consecutivas é chamada **comprimento de onda**.<br>
 O número de comprimentos de onda completos que passam por um determinado ponto no espaço a cada segundo é conhecido como **frequência**.
 
 ### Comprimento de onda
