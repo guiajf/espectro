@@ -9,7 +9,7 @@ O código desenvolvido pelo autor original, transformado em uma *Classe*, foi re
 
 A energia radiante emitida pelo sol se propaga através de um meio denominado **campo eletromagnético**. O espectro eletromagnético, que se estende desde comprimentos de onda muito curtos associados aos raios cósmicos, até as ondas de rádio de baixa freqüência e grandes comprimentos de onda, pode ser disposto de maneira contínua em função das duas propriedades básicas das ondas.
 
-![espectro](espectro.png)  
+<img src="espectro.png" width="60%" height="60%">
 
 ### Escudo protetor
 
@@ -28,7 +28,7 @@ Logo abaixo do espectro visível, ficam as ondas ultravioletas. E logo acima, as
 
 ### Propriedades básicas das ondas
 
-![ondas](ondas.png)
+<img src="ondas.png" width="60%" height="60%">
 
 As propriedades básicas das ondas são: amplitude, comprimento e frequência.<br>
 A distância entre a extremidade da *crista*(ponto mais alto) e a o eixo central da onda é chamada **amplitude**.<br>
@@ -41,12 +41,12 @@ Visualizemos as duas últimas propriedades graficamente, através das funções 
 
 ### Comprimento de onda
 
-![wavelenght](wavelength_frequency.png)
+<img src="wavelength_frequency.png" width="60%" height="60%">
 O tamanho das ondas aumenta da esquerda para a direita.
 
 ### Frequência 
 
-![frequência](frequency_wavelength.png)
+<img src="frequency_wavelength.png" width="60%" height="60%">
 A frequência das ondas aumenta da esquerda para a direita.
 
 Fontes: 
