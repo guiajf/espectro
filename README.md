@@ -24,9 +24,7 @@ No livro *Learning Scientific Programming with Python*, de *Christian Hill*, dis
 
 Logo abaixo do espectro visível, ficam as ondas ultravioletas. E logo acima, as infravermelhas.
 
-<div style="width: 60%; height: 60%">
-![](visiblelight.png)
-</div>
+<img src="visiblelight.png" width="60%" height="60%">
 
 ### Propriedades básicas das ondas
 
