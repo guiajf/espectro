@@ -20,8 +20,6 @@ Os gases radiativos presentes na atmosfera, ao absorverem praticamente todos os 
 
 ### Propriedades básicas das ondas
 
-img{ height: 60%; width:60% ; }
-
 ![ondas](ondas.png)
 
 As propriedades básicas das ondas são: amplitude, comprimento e frequência.<br>
