@@ -25,5 +25,5 @@ O tamamho das ondas aumenta da esquerda para a direita.
 
 ### Frequência 
 
-![frequência][frequency_wavelength.png)
+![frequência](frequency_wavelength.png)
 A frequência das ondas aumenta da esquerda para a direita.
