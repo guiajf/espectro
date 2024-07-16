@@ -20,8 +20,10 @@ Os gases radiativos presentes na atmosfera, ao absorverem praticamente todos os 
 
 ### Comprimento de onda
 
-[wavelenght](wavelength_frequency.png)
+![wavelenght](wavelength_frequency.png)
+O tamamho das ondas aumenta da esquerda para a direita.
 
 ### Frequência 
 
-(frequência)[frequency_wavelength.png)
+![frequência][frequency_wavelength.png)
+A frequência das ondas aumenta da esquerda para a direita.
