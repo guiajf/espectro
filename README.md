@@ -14,7 +14,7 @@ A energia radiante emitida pelo sol se propaga através de um meio denominado **
 ### Escudo protetor
 
 
-A atmosfera terrestre possui uma camada protetora, composta por gases absorvedores da radiação eletromagnética. Estão presentes, em grande quantidade, vapor d'água (\(\ce{H2O}\)
+A atmosfera terrestre possui uma camada protetora, composta por gases absorvedores da radiação eletromagnética. Estão presentes, em grande quantidade, vapor d'água ($\(\ce{H2O}\)$
 ), oxigênio (
 ), ozônio (
 ) e gás carbônico (
