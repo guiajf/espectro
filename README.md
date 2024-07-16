@@ -1,6 +1,7 @@
 # Reprodução do espectro visível no Python
 
-Este artigo foi inspirado no projeto de *Chris Webb* disponível em http://www.codedrome.com/exploring-the-visible-spectrum-in-python/. O código desenvolvido pelo autor original foi reproduzido integralmente, exceto por um detalhe: foi transformado em uma *Classe*.
+Este artigo foi inspirado no projeto de *Chris Webb* disponível em http://www.codedrome.com/exploring-the-visible-spectrum-in-python/. 
+O código desenvolvido pelo autor original, transformado em uma *Classe*, foi reproduzido integralmente.
 
 
 ## Espectro eletromagnético
