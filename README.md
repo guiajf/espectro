@@ -29,12 +29,12 @@ O número de comprimentos de onda completos que passam por um determinado ponto 
 
 O comprimento de onda e a frequência são inversamente proporcionais, isto é, quanto menor o comprimento de onda, maior será a frequência, e vice-versa.
 
-Vejamos esta relação graficamente.
+Visualizemos as duas últimas propriedades graficamente.
 
 ### Comprimento de onda
 
 ![wavelenght](wavelength_frequency.png)
-O tamamho das ondas aumenta da esquerda para a direita.
+O tamanho das ondas aumenta da esquerda para a direita.
 
 ### Frequência 
 
