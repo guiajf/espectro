@@ -18,4 +18,10 @@ vapor d'água, oxigênio, ozônio e gás carbônico. E, em menor quantidade: mon
 
 Os gases radiativos presentes na atmosfera, ao absorverem praticamente todos os raios gama, X e ultravioleta, antes que atinjam a troposfera, impedem efeitos deletérios à vida na Terra. Por outro lado, a faixa do espectro visível, responsável por processos físico-químicos, é apenas ligeiramente atenuada pela atmosfera.
 
+### Comprimento de onda
 
+[wavelenght](wavelength_frequency.png)
+
+### Frequência 
+
+(frequência)[frequency_wavelength.png)
