@@ -32,7 +32,7 @@ O comprimento de onda e a frequência são inversamente proporcionais, isto é, 
 Visualizemos as duas últimas propriedades graficamente.
 
 ### Comprimento de onda
-
+img{ height: 60%; width:60% ; }
 ![wavelenght](wavelength_frequency.png)
 O tamanho das ondas aumenta da esquerda para a direita.
 
