@@ -22,6 +22,8 @@ Os gases radiativos presentes na atmosfera, ao absorverem praticamente todos os 
 
 No livro *Learning Scientific Programming with Python*, de *Christian Hill*, disponível online em https://scipython.com/book/, há um programa que exibe as diferentes regiões do espectro eletromagnético. 
 
+![luz](visiblelight.png)
+
 ### Propriedades básicas das ondas
 
 ![ondas](ondas.png)
