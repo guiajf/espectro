@@ -20,7 +20,7 @@ Os gases radiativos presentes na atmosfera, ao absorverem praticamente todos os 
 
 ### O espectro visível
 
-No livro *Learning Scientific Programming with Python*, de *Christian Hill*, disponível online em https://scipython.com/book/, há um programa que exibe as diferentes regiões do espectro eletromagnético. O código do programa foi reproduzido no notebook_*spectrum.ipynb*.
+No livro *Learning Scientific Programming with Python*, de *Christian Hill*, disponível online em https://scipython.com/book/, há um programa que exibe as diferentes regiões do espectro eletromagnético. O código do programa foi reproduzido no notebook *em_spectrum.ipynb*.
 
 Logo abaixo do espectro visível, ficam as ondas ultravioletas. E logo acima, as infravermelhas.
 
